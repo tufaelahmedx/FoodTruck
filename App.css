@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(255, 212, 131);
+}
+
+.banner {
+  text-align: center;
+}
+
+.F {
+  font-size: larger;
+  color: white;
+  font-weight: bold;
+  text-shadow: 2px 5px #e1d4d4;
+}
+
